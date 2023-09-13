@@ -1,8 +1,8 @@
-'  MVC System Response VBscript v1.0 by Eblis01 (gpjavan@gmail.com) 05/18/2014
+'  MVC System Response VBscript v1.0 by Eblis01 (gpjavan@gmail.com) 05/18/2024
 ' ================================================================================
 ' DESCRIPTION: 
 '  Basic script to retrieve system information and provide your PC with a response
-'  to "How are you feeling?" where certain sysinfo parameters results in Jarvis
+'  to "How are you feeling?" where certain sysinfo parameters results in a program
 '  "doing fine" or "not feeling well due to..."
 '  Requires: No requirements, designed to fetch information from local system
 '			 However, to get defrag status, script must run with elevated privs
